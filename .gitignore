@@ -1,3 +1,7 @@
 node_modules
 .DS_Store
 .history
+cheat_sheet.md
+desktop.ini
+**/desktop.ini
+local/
